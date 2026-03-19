@@ -103,11 +103,23 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2021-2023* Outstanding Graduate Student at the School Level (Top 5%)
 - *2022.10* Postgraduate First-Class Scholarship (Top 10%) -->
 
--- # 📝 Publications 
+# 📝 Publications 
+
+[Unlocking the Power of Multi-Agent LLM for Reasoning: From Lazy Agents to Deliberation](https://arxiv.org/pdf/2511.02303)
+
+Zhiwei Zhang, Xiaomin Li, **Yudi Lin**, Hui Liu, Ramraj Chandradevan, Linlin Wu, Minhua Lin, Fali Wang, Xianfeng Tang, Qi He, Suhang Wang
+
+[Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models](https://arxiv.org/pdf/2510.16344)
+
+Chenrui Tie, Shengxiang Sun, **Yudi Lin**, Yanbo Wang, Zhongrui Li, Zhouhan Zhong, Jinxuan Zhu, Yiman Pang, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao
+
 
 [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://arxiv.org/pdf/2506.17561)
 
 Chongkai Gao, Zixuan Liu, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, **Yudi Lin**, Zhirui Fang, Zeyu Jiang, Lin Shao
+
+
+
 
 
 
@@ -150,7 +162,7 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
 
 # 📖 Educations
-- *2022.08 - 2024.12*, Master of Computer Science, Uinversity of Southern California, Los Angeles, CA
+- *2022.08 - 2024.12*, Master of Computer Science, Uinversity of Southern California, Los Angeles, USA
   <!-- - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==) -->
 - *2018.09 - 2022.06*, Bachelor of Electronic Information Engineering, Dalian University of Technology, Liaoning, China
   <!-- - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm) -->
