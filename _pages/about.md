@@ -109,13 +109,11 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 Zhiwei Zhang, Xiaomin Li, **Yudi Lin**, Hui Liu, Ramraj Chandradevan, Linlin Wu, Minhua Lin, Fali Wang, Xianfeng Tang, Qi He, Suhang Wang
 
----
 
 [Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models](https://arxiv.org/pdf/2510.16344)
 
 Chenrui Tie, Shengxiang Sun, **Yudi Lin**, Yanbo Wang, Zhongrui Li, Zhouhan Zhong, Jinxuan Zhu, Yiman Pang, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao
 
----
 
 [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://arxiv.org/pdf/2506.17561)
 
