@@ -109,57 +109,18 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 
 Zhiwei Zhang, Xiaomin Li, **Yudi Lin**, Hui Liu, Ramraj Chandradevan, Linlin Wu, Minhua Lin, Fali Wang, Xianfeng Tang, Qi He, Suhang Wang
 
+---
+
 [Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models](https://arxiv.org/pdf/2510.16344)
 
 Chenrui Tie, Shengxiang Sun, **Yudi Lin**, Yanbo Wang, Zhongrui Li, Zhouhan Zhong, Jinxuan Zhu, Yiman Pang, Haonan Chen, Junting Chen, Ruihai Wu, Lin Shao
 
+---
 
 [VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models](https://arxiv.org/pdf/2506.17561)
 
 Chongkai Gao, Zixuan Liu, Zhenghao Chi, Junshan Huang, Xin Fei, Yiwen Hou, Yuxuan Zhang, **Yudi Lin**, Zhirui Fang, Zeyu Jiang, Lin Shao
 
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2023</div><img src='../images/paper2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Research on two-stage semi-active ISD suspension based on improved fuzzy neural network PID control](https://www.mdpi.com/1424-8220/23/20/8388)
-
-Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
-
-[**Project**](https://www.mdpi.com/1424-8220/23/20/8388) | <strong>SCI Journal Paper</strong>
-- Sensors 23, no. 20: 8388. https://doi.org/10.3390/s23208388.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICTETS 2023</div><img src='../images/paper3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Research on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short)
-
- **Ming Zhan**, Jingjing Fan, Linhao Jin
-
-[**Project**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13064/130643A/Research-on-trajectory-prediction-of-vehicle-lane-change-for-autonomous/10.1117/12.3015773.short) | <strong>EI International Conference</strong>
-- Proc. SPIE 13064, Seventh International Conference on Traffic Engineering and Transportation System (ICTETS 2023), 130643A (20 February 2024); https://doi.org/10.1117/12.3015773.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCIR 2023</div><img src='../images/paper4.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Research on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter](https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short)
-
-Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
-
-[**Project**](https://remotesensing.spiedigitallibrary.org/conference-proceedings-of-spie/12940/129401G/Research-on-fuzzy-control-of-two-stage-ISD-suspension-based/10.1117/12.3010611.short) | <strong>EI International Conference</strong>
-- Proc. SPIE 12940, Third International Conference on Control and Intelligent Robotics (ICCIR 2023), 129401G (1 December 2023); https://doi.org/10.1117/12.3010611.
-</div>
-</div>
-
-- [Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u6w04t0tp2y08c0qa7c0ck0mw795620), Ren Li, **Ming Zhan**, Jingjing Fan, Auto Know (In Chinese) 2022
 
 # 📖 Educations
 - *2022.08 - 2024.12*, Master of Computer Science, Uinversity of Southern California, Los Angeles, USA
